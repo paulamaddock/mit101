@@ -8,7 +8,7 @@ import java.util.Scanner;
  * Class: MIT CS 100.01
  * Date: 4/10/14
  * Time: 10:40 PM
- * Project: MITProblem4
+ * Project: Problem4
  */
 public class Solver {
     public static void main(String[] args) {

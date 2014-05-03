@@ -8,7 +8,7 @@ import java.util.Arrays;
  * Class: MIT CS 100.01
  * Date: 4/6/14
  * Time: 7:27 PM
- * Project: MITProblem3
+ * Project: Problem3
  */
 public class UsedCarLotRunner {
     public static void main(String[] args) {

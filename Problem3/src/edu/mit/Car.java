@@ -6,7 +6,7 @@ package edu.mit;
  * Class: MIT CS 100.01
  * Date: 4/6/14
  * Time: 7:24 PM
- * Project: MITProblem3
+ * Project: Problem3
  */
 public class Car {
 

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bd00e2b-e429-475e-9e98-eec4ccbdb1aa" name="Default" comment="" />
-    <ignored path="MITProblem3.iws" />
+    <ignored path="Problem3.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="MITProblem3" />
+    <favorites_list name="Problem3" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -74,11 +74,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Car.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Car.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/mit/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="29" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="1188">
-              <folding />
+            <state line="16" column="23" selection-start="305" selection-end="305" vertical-scroll-proportion="0.05846154" vertical-offset="250" max-vertical-offset="900">
+              <folding>
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -92,13 +95,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UsedCarLotRunner.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="UsedCarLotRunner.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/mit/UsedCarLotRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="22" selection-start="1079" selection-end="1079" vertical-scroll-proportion="0.22560336" vertical-offset="415" max-vertical-offset="1368">
+            <state line="35" column="22" selection-start="1079" selection-end="1079" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="1368">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem3.iml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Problem3.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="324">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -121,10 +133,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1365" />
-    <option name="y" value="-4" />
-    <option name="width" value="1922" />
-    <option name="height" value="1085" />
+    <option name="x" value="-4" />
+    <option name="width" value="1374" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -152,45 +163,19 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MITProblem3" />
+              <option name="myItemId" value="Problem3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MITProblem3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MITProblem3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MITProblem3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MITProblem3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane />
       </pane>
     </panes>
   </component>
@@ -218,7 +203,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MITProblem3" />
+      <module name="Problem3" />
       <envs />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
@@ -397,7 +382,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1365" y="-4" width="1922" height="1085" extended-state="6" />
+    <frame x="-4" y="0" width="1374" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -412,7 +397,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17760417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17715959" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -456,7 +441,43 @@
     <entry file="file://$PROJECT_DIR$/src/edu/mit/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="29" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="1188">
+          <folding>
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/mit/DriverRating.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="9" selection-start="593" selection-end="593" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="1098">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/mit/UsedCarLotRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="22" selection-start="1079" selection-end="1079" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="1368">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/mit/UsedCarLot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="40" selection-start="902" selection-end="902" vertical-scroll-proportion="0.0" vertical-offset="271" max-vertical-offset="1008">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/mit/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="29" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="1188">
+          <folding>
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -486,7 +507,10 @@
     <entry file="file://$PROJECT_DIR$/src/edu/mit/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="25" selection-start="374" selection-end="374" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="504">
-          <folding />
+          <folding>
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -516,7 +540,10 @@
     <entry file="file://$PROJECT_DIR$/src/edu/mit/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="25" selection-start="374" selection-end="374" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="504">
-          <folding />
+          <folding>
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -550,18 +577,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/mit/Car.java">
+    <entry file="file://$PROJECT_DIR$/src/edu/mit/UsedCarLotRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="29" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0" vertical-offset="127" max-vertical-offset="1188">
+        <state line="35" column="22" selection-start="1079" selection-end="1079" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="1368">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem3.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="650">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/mit/UsedCarLotRunner.java">
+    <entry file="file://$PROJECT_DIR$/src/edu/mit/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="22" selection-start="1079" selection-end="1079" vertical-scroll-proportion="0.22560336" vertical-offset="415" max-vertical-offset="1368">
+        <state line="16" column="23" selection-start="305" selection-end="305" vertical-scroll-proportion="0.05846154" vertical-offset="250" max-vertical-offset="900">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
           </folding>
         </state>
       </provider>
